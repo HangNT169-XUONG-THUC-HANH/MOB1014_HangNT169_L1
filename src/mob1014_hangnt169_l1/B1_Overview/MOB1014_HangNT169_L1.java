@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package mob1014_hangnt169_l1;
+package mob1014_hangnt169_l1.B1_Overview;
 
 import java.util.Scanner;
 
